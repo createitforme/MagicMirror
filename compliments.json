@@ -84,7 +84,8 @@
     "The sun is hiding right now."
   ],
   "thunderstorm" : [
-    "You've been, thunderstruck!"
+    "You've been, thunderstruck!",
+    "BOOM!"
   ],
   "night_thunderstorm" : [
     "It's a stormy night, don't be scared"
